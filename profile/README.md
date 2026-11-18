@@ -2,9 +2,9 @@
 
 # ⚡ OPNSpeed
 
-### Deterministic Low-Latency Cloud Compute
+### Cloud VPS & application hosting.
 
-High-performance cloud infrastructure engineered for low-jitter gaming, mission-critical microservices, and dedicated virtual compute. Instant automated provisioning, zero overselling, and enterprise NVMe storage.
+Run websites, APIs, bots and services with NVMe storage, full server control and straightforward pricing. Manage everything from one dashboard.
 
 ---
 </div>
